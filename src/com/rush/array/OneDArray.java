@@ -22,6 +22,7 @@ public class OneDArray {
 	 for (int i = 0; i < a.length; i++) {
 		System.out.println("Array value for index "+i+" is "+a[i]);
 	}
+	 
 	
 }
 }
